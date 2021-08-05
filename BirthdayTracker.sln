@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayTracker", "BirthdayTracker\BirthdayTracker.csproj", "{32734272-BE39-453E-9EB4-70BD4FF5D201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayTrackerTests", "BirthdayTrackerTests\BirthdayTrackerTests.csproj", "{0BD88E91-1FF8-4F52-BF40-B2632042997C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC61A880-A368-4DC9-BF1D-3F665D3F3771}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32734272-BE39-453E-9EB4-70BD4FF5D201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32734272-BE39-453E-9EB4-70BD4FF5D201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32734272-BE39-453E-9EB4-70BD4FF5D201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32734272-BE39-453E-9EB4-70BD4FF5D201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD88E91-1FF8-4F52-BF40-B2632042997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD88E91-1FF8-4F52-BF40-B2632042997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD88E91-1FF8-4F52-BF40-B2632042997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD88E91-1FF8-4F52-BF40-B2632042997C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDDB3501-868C-4A12-921D-6FBDAA16FB6F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\bin\Release\BirthdayTracker.exe.config
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\bin\Release\BirthdayTracker.exe
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\bin\Release\BirthdayTracker.pdb
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.Form1.resources
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.Properties.Resources.resources
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.csproj.GenerateResource.cache
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.csproj.CoreCompileInputs.cache
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.exe
+C:\Users\Kohei\Desktop\BirthdayTracker\BirthdayTracker\obj\Release\BirthdayTracker.pdb
